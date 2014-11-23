@@ -412,6 +412,7 @@
 				7A3732EB1A20F33100346147 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7A3732EC1A20F33100346147 /* Build configuration list for PBXNativeTarget "animateConstraintTests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +421,7 @@
 				7A3732EE1A20F33100346147 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
