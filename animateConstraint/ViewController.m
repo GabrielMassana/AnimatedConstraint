@@ -214,8 +214,6 @@ typedef NS_ENUM(NSUInteger, ABAConstraintsFase)
 
 - (void)animateButtonsWithFinalAlpha:(CGFloat)alpha
 {
-    [self.view layoutIfNeeded];
-
     [UIView animateWithDuration:0.25
                      animations:^
      {
